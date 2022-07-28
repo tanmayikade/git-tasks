@@ -25,10 +25,6 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 
-
-
-
-
 ### Entries  
   - Allen Emmanuel Binny [allemmbinn](http://github.com/allemmbinn)
   - Alok Kumar Roy [AlokRoy-24](http://github.com/AlokRoy-24)
@@ -36,6 +32,7 @@ Your entry should maintain alphabetic order and it should be in the format:
   - Harsh Bongirwar [HarshBongirwar](https://github.com/HarshBongirwar)
   - Om Sadhwani [OmSadhwani](http://github.com/OmSadhwani)
   - Prasanna Paithankar [PrasannaPaithankar](http://github.com/PrasannaPaithankar)
+  - Prudhvi Gudla [PrudhviGudla](https://github.com/PrudhviGudla)
 
 ## Task 2
 
