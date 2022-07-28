@@ -21,11 +21,11 @@ Your entry should maintain alphabetic order and it should be in the format:
    * ` your name [username](http://github.com/username)`.  
 
 
-- Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
+- Your Pull Request must have only one commit (if there are multiple commits, you should squash them).
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-
+HARSHIT [Harshit190103](https://github.com/Harshit190103)
 
 ## Task 2
 
