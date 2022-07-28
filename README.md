@@ -24,7 +24,6 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
 - Only one file should be there in the diff of your Pull Request.
 
-
 ### Entries  
   - Allen Emmanuel Binny [allemmbinn](http://github.com/allemmbinn)
   - Alok Kumar Roy [AlokRoy-24](http://github.com/AlokRoy-24)
@@ -33,6 +32,8 @@ Your entry should maintain alphabetic order and it should be in the format:
   - Om Sadhwani [OmSadhwani](http://github.com/OmSadhwani)
   - Prasanna Paithankar [PrasannaPaithankar](http://github.com/PrasannaPaithankar)
   - Prudhvi Gudla [PrudhviGudla](https://github.com/PrudhviGudla)
+  - Yash Sirvi [C-12-14](https://github.com/C-12-14)
+
 
 ## Task 2
 
