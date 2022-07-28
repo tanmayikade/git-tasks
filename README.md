@@ -24,10 +24,10 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
 - Only one file should be there in the diff of your Pull Request.
 
-### Entries
-  * Allen Emmanuel Binny [allemmbinn] (http://github.com/allemmbinn)
-
-- Alok Kumar Roy [AlokRoy-24](http://github.com/AlokRoy-24).
+### Entries  
+  - Allen Emmanuel Binny [allemmbinn](http://github.com/allemmbinn)
+  - Alok Kumar Roy [AlokRoy-24](http://github.com/AlokRoy-24)
+  - Bratin Mondal [bratin03](http://github.com/bratin03)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
