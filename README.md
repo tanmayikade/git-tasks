@@ -33,7 +33,7 @@ Your entry should maintain alphabetic order and it should be in the format:
   - Om Sadhwani [OmSadhwani](http://github.com/OmSadhwani)
   - Prasanna Paithankar [PrasannaPaithankar](http://github.com/PrasannaPaithankar)
   - Prudhvi Gudla [PrudhviGudla](https://github.com/PrudhviGudla)
-  - Soumojit BabaYaga840 [BabaYaga840](http://github.com/BabaYaga840)
+  - Soumojit [BabaYaga840](http://github.com/BabaYaga840)
   - Yash Sirvi [C-12-14](https://github.com/C-12-14)
 
 
