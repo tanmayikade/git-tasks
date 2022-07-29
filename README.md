@@ -21,7 +21,7 @@ Your entry should maintain alphabetic order and it should be in the format:
    * ` your name [username](http://github.com/username)`.  
 
 
-- Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
+- Your Pull Request must have only one commit (if there are multiple commits, you should squash them).
 - Only one file should be there in the diff of your Pull Request.
 
 
@@ -30,6 +30,7 @@ Your entry should maintain alphabetic order and it should be in the format:
   - Alok Kumar Roy [AlokRoy-24](http://github.com/AlokRoy-24)
   - Bratin Mondal [bratin03](http://github.com/bratin03)
   - Harsh Bongirwar [HarshBongirwar](https://github.com/HarshBongirwar)
+  - Harshit Yadav [Harshit190103](https://github.com/Harshit190103)
   - Om Sadhwani [OmSadhwani](http://github.com/OmSadhwani)
   - Prasanna Paithankar [PrasannaPaithankar](http://github.com/PrasannaPaithankar)
   - Prudhvi Gudla [PrudhviGudla](https://github.com/PrudhviGudla)
