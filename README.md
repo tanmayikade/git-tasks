@@ -28,6 +28,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries 
   - Allen Emmanuel Binny [allemmbinn](http://github.com/allemmbinn)
   - Alok Kumar Roy [AlokRoy-24](http://github.com/AlokRoy-24)
+  - Apoorv Kumar [iamakthecoder](https://github.com/iamakthecoder)
   - Bratin Mondal [bratin03](http://github.com/bratin03)
   - Harsh Bongirwar [HarshBongirwar](https://github.com/HarshBongirwar)
   - Harshit Yadav [Harshit190103](https://github.com/Harshit190103)
