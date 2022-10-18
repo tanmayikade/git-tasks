@@ -41,6 +41,7 @@ Your entry should maintain alphabetic order and it should be in the format:
   - Soumojit [BabaYaga840](http://github.com/BabaYaga840)
   - Sreyas Venkataraman [vsreyas](https://github.com/vsreyas)
   - Yash Sirvi [C-12-14](https://github.com/C-12-14)
+  - Tanmay Ekade [The_Iceman](https://github.com/tanmayikade)
 
 
 ## Task 2
